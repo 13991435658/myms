@@ -50,6 +50,7 @@
     ]
   },
   "devDependencies": {
+    "@types/nprogress": "^0.2.0",
     "sass": "^1.63.4",
     "sass-loader": "^13.3.2"
   }
